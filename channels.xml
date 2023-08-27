@@ -1,13 +1,15 @@
-<youtubeList>
-      <youtube>
-            <name>MrTristin Requests Opened</name>
-            <openLink>https://www.youtube.com/@MrTristinRequestsOpened449</openLink>
-      </youtube>
-      <youtube>
-            <name>MrTristin 2</name>
-            <openLink>https://www.youtube.com/@mrtristin2</openLink>
-      </youtube>
-      <youtube>
-            <name>MrTristin Alternitive</name>
-            <openLink>https://www.youtube.com/@MrTristinAlternitive</openLink>
-      <youtube>
+<html>
+      <backgroundcolorStyle>FFFFFF</backgroundcolorStyle>
+            <youtubeList>      
+                  <youtube>
+                        <name>MrTristin Requests Opened</name>
+                        <openLink>https://www.youtube.com/@MrTristinRequestsOpened449</openLink>
+                  </youtube>
+                  <youtube>
+                        <name>MrTristin 2</name>
+                        <openLink>https://www.youtube.com/@mrtristin2</openLink>
+                  </youtube>
+                  <youtube>
+                        <name>MrTristin Alternitive</name>
+                        <openLink>https://www.youtube.com/@MrTristinAlternitive</openLink>
+                  <youtube>
